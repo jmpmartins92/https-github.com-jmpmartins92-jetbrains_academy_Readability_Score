@@ -15,7 +15,7 @@ stages:
   is_completed: true
 - id: 208
   step: 5265
-  is_completed: false
+  is_completed: true
 topics:
   0:
   - title: Units of information
@@ -44,10 +44,10 @@ topics:
     theory_id: 3518
   - title: Comments
     theory_id: 3520
-  - title: Naming variables
-    theory_id: 3513
   - title: Coding style conventions
     theory_id: 12411
+  - title: Naming variables
+    theory_id: 3513
   - title: Scanning the input
     theory_id: 9055
   - title: Arithmetic operations
